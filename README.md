@@ -1,5 +1,8 @@
-Hi, I'm Acheul.  
-A social scientist now at Seoul National University.  
-I'm interested in AI/ML for both the data world and the real world.  
-Here is my blog site, https://acheul.github.io  
-You can contact me via seoul605.21@gmail.com
+Hi! I'm Jang Hyomin.
+
+I'ver started from a social scientist, going after social mobility studies,
+then expanded stages to the area of machine learning, on the issues of data representation and resource effective learning,
+and currently working on a new era's documentation tool, "Attention", in Acheulean Graph.
+
+- blog: https://acheul.github.io
+- contact: seoul605.21@gmail.com
